@@ -1,5 +1,8 @@
+#include <algorithm>
 #include <optional>
+#include <concepts>
 #include <cstdint>
+#include <utility>
 #include <vector>
 #include <ranges>
 
