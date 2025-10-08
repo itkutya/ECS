@@ -48,7 +48,6 @@ class ECS final
             return pair.first == entityID;
         };
     }
-
 public:
     // Delete default constructor and copy/move operations to enforce static usage
     ECS() noexcept = delete;
